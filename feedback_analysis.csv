@@ -1,0 +1,105 @@
+CustomerID,FeedbackChannel,Rating,Comment,Date
+C00001,Email,4,Great service!,01-11-2024
+C00002,Social Media,2,Could improve product quality.,02-11-2024
+C00003,Survey,5,Excellent experience!,03-11-2024
+C00004,Email,3,Average service,04-11-2024
+C00005,Social Media,1,Very disappointed with the support.,05-11-2024
+C00006,Survey,4,Good but can be better.,06-11-2024
+C00007,Email,2,Not satisfied with the product.,07-11-2024
+C00008,Social Media,5,Fantastic! Highly recommend.,08-11-2024
+C00009,Survey,3,It was okay.,09-11-2024
+C00010,Email,1,Terrible service!,10-11-2024
+C00011,Social Media,4,Loved the quick response.,11-11-2024
+C00012,Survey,2,Could use some improvements.,12-11-2024
+C00013,Email,5,Perfect! Couldn't be happier.,13-11-2024
+C00014,Social Media,3,Just average.,14-11-2024
+C00015,Survey,1,Horrible experience.,15-11-2024
+C00016,Email,5,Absolutely wonderful!,16-11-2024
+C00017,Social Media,4,Pretty good overall.,17-11-2024
+C00018,Survey,3,Decent but room for improvement.,18-11-2024
+C00019,Email,2,Not what I expected.,19-11-2024
+C00020,Social Media,1,Awful service.,20-11-2024
+C00021,Survey,5,Outstanding!,21-11-2024
+C00022,Email,4,Very happy with the service.,22-11-2024
+C00023,Social Media,3,It was fine.,23-11-2024
+C00024,Survey,2,Could be better.,24-11-2024
+C00025,Email,1,Extremely poor experience.,25-11-2024
+C00026,Social Media,4,Good service,26-11-2024
+C00027,Survey,5,Very satisfied!,27-11-2024
+C00028,Email,3,Service was okay.,28-11-2024
+C00029,Social Media,2,Product needs improvements.,29-11-2024
+C00030,Survey,1,Completely unsatisfactory.,30-11-2024
+C00031,Email,5,Service exceeded expectations!,01-12-2024
+C00032,Social Media,4,Helpful support.,02-12-2024
+C00033,Survey,3,Service was average.,03-12-2024
+C00034,Email,2,Not happy with the quality.,04-12-2024
+C00035,Social Media,1,Would not recommend.,05-12-2024
+C00036,Survey,4,Good job!,06-12-2024
+C00037,Email,5,Excellent!,07-12-2024
+C00038,Social Media,3,Just okay.,08-12-2024
+C00039,Survey,2,Could be improved.,09-12-2024
+C00040,Email,1,Not good at all.,10-12-2024
+C00041,Social Media,4,Happy with the service.,11-12-2024
+C00042,Survey,5,Fantastic!,12-12-2024
+C00043,Email,3,It was all right.,13-12-2024
+C00044,Social Media,2,Service needs improvement.,14-12-2024
+C00045,Survey,1,Very unhappy.,15-12-2024
+C00046,Email,4,Pretty decent.,16-12-2024
+C00047,Social Media,5,Great job!,17-12-2024
+C00048,Survey,3,Adequate service.,18-12-2024
+C00049,Email,2,Could be better.,19-12-2024
+C00050,Social Media,1,Not satisfied.,20-12-2024
+C00051,Survey,5,Outstanding experience!,21-12-2024
+C00052,Email,4,Very good service.,22-12-2024
+C00053,Social Media,3,It was okay.,23-12-2024
+C00054,Survey,2,Room for improvement.,24-12-2024
+C00055,Email,1,Very poor service.,25-12-2024
+C00056,Social Media,4,Good response time.,26-12-2024
+C00057,Survey,5,Highly satisfied!,27-12-2024
+C00058,Email,3,Service was average.,28-12-2024
+C00059,Social Media,2,Needs improvement.,29-12-2024
+C00060,Survey,1,Very bad experience.,30-12-2024
+C00061,Email,5,Excellent job!,01-01-2025
+C00062,Social Media,4,Good support.,02-01-2025
+C00063,Survey,3,Nothing special.,03-01-2025
+C00064,Email,2,Not what I expected.,04-01-2025
+C00065,Social Media,1,Very poor.,05-01-2025
+C00066,Survey,4,Quite good.,06-01-2025
+C00067,Email,5,Awesome!,07-01-2025
+C00068,Social Media,3,It was all right.,08-01-2025
+C00069,Survey,2,Could have been better.,09-01-2025
+C00070,Email,1,Very disappointed.,10-01-2025
+C00071,Social Media,4,Good overall.,11-01-2025
+C00072,Survey,5,Wonderful experience!,12-01-2025
+C00073,Email,3,Average.,13-01-2025
+C00074,Social Media,2,Service could be better.,14-01-2025
+C00075,Survey,1,Extremely dissatisfied.,15-01-2025
+C00076,Email,4,Not bad.,16-01-2025
+C00077,Social Media,5,Excellent service.,17-01-2025
+C00078,Survey,3,It was okay.,18-01-2025
+C00079,Email,2,Not the best.,19-01-2025
+C00080,Social Media,1,Not happy.,20-01-2025
+C00081,Survey,5,Perfect!,21-01-2025
+C00082,Email,4,Very good.,22-01-2025
+C00083,Social Media,3,Service was acceptable.,23-01-2025
+C00084,Survey,2,Could improve.,24-01-2025
+C00085,Email,1,Very bad.,25-01-2025
+C00086,Social Media,4,Pretty good.,26-01-2025
+C00087,Survey,5,Highly recommend.,27-01-2025
+C00088,Email,3,Nothing great.,28-01-2025
+C00089,Social Media,2,Needs a lot of improvement.,29-01-2025
+C00090,Survey,1,Extremely poor.,30-01-2025
+C00091,Email,5,Excellent.,01-02-2025
+C00092,Social Media,4,Good service.,02-02-2025
+C00093,Survey,3,Average experience.,03-02-2025
+C00094,Email,2,Not up to the mark.,04-02-2025
+C00095,Social Media,1,Poor service.,05-02-2025
+C00096,Survey,4,Quite satisfactory.,06-02-2025
+C00097,Email,5,Wonderful service.,07-02-2025
+C00098,Social Media,3,It was fine.,08-02-2025
+C00099,Survey,2,Not good.,09-02-2025
+C00100,Email,1,Really bad experience.,10-02-2025
+C00101,Social Media,4,Happy with it.,11-02-2025
+C00102,Survey,5,Superb!,12-02-2025
+C00103,Email,3,Okay experience.,13-02-2025
+C00104,Social Media,2,Not what I expected.,2025-
